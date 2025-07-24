@@ -15,7 +15,5 @@ crispy-bootstrap5==0.7
 django-crispy-forms==2.0    
 # pure‑python
 # ---- Django helpers ----
-django-crispy-forms==2.1
-crispy-bootstrap5==0.7
 django-tables2==2.6.0
 django-filter==23.3
